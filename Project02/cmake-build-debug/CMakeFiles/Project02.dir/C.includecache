@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Dudley/CLionProjects/Project02/doublylinkedlist.c
+doublylinkedlist.h
+/cygdrive/c/Users/Dudley/CLionProjects/Project02/doublylinkedlist.h
+
+/cygdrive/c/Users/Dudley/CLionProjects/Project02/doublylinkedlist.h
+stdlib.h
+-
+
+/cygdrive/c/Users/Dudley/CLionProjects/Project02/main.c
+stdio.h
+-
+assert.h
+-
+doublylinkedlist.h
+/cygdrive/c/Users/Dudley/CLionProjects/Project02/doublylinkedlist.h
+
